@@ -30,7 +30,7 @@ main {
     display: flex;
     align-items: left;
     justify-content: left;
-    background-image: url('/images/abous\ us\ page\ photo.webp');
+    background-image: url('abous\ us\ page\ photo.webp');
     background-size: cover;
     background-position: center;
     padding: 10rem 3rem;
