@@ -23,7 +23,7 @@ body {
     position: relative;
     width: 100%; /* Full width */
     min-height: 80vh; /* Full viewport height */
-    background: url("/images/landingcoffee.jpg") 
+    background: url("landingcoffee.jpg") 
       no-repeat center center/cover; /* Responsive background */
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ body {
   .about-wrapper {
     position: relative;
     min-height: 80vh;
-    background-image: url('/images/abous\ us\ page\ photo.webp');
+    background-image: url('abous\ us\ page\ photo.webp');
     background-size: cover;
     background-position: center;
     display: flex;
