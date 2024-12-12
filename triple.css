@@ -1,0 +1,29 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: #f2f2f2;
+  }
+
+  
+  
+/* Active Link Styling */
+.nav-link.active {
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+
+/* Adjust Logo Size */
+.navbar-brand img {
+  width: 70px; 
+  height: auto;
+}
+/* Footer Section */
+.footer-section {
+    color: #082B59;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 0.9rem;
+    padding: 2rem;
+  }
+  
