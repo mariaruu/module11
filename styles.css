@@ -22,7 +22,6 @@ body {
   .image-container {
     position: relative;
     min-height: 80vh; /* Full viewport height */
-min-width: 80vh;
     align-items: center;
     justify-content: center;
   }
