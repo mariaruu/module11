@@ -21,10 +21,9 @@ body {
   /* Landing Section */
   .image-container {
     position: relative;
-    width: 100%; /* Full width */
     min-height: 80vh; /* Full viewport height */
     background: url("landingcoffee.jpg") 
-      no-repeat center center/cover; /* Responsive background */
+ no-repeat center center/cover; /* Responsive background */
     display: flex;
     align-items: center;
     justify-content: center;
